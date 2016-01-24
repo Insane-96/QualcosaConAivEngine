@@ -1,0 +1,15 @@
+c:\users\alberto\documents\visual studio 2015\Projects\QualcosaConAivEngine\bin\Debug\QualcosaConAivEngine.exe.config
+c:\users\alberto\documents\visual studio 2015\Projects\QualcosaConAivEngine\bin\Debug\QualcosaConAivEngine.exe
+c:\users\alberto\documents\visual studio 2015\Projects\QualcosaConAivEngine\bin\Debug\QualcosaConAivEngine.pdb
+c:\users\alberto\documents\visual studio 2015\Projects\QualcosaConAivEngine\obj\Debug\QualcosaConAivEngine.csprojResolveAssemblyReference.cache
+c:\users\alberto\documents\visual studio 2015\Projects\QualcosaConAivEngine\obj\Debug\QualcosaConAivEngine.exe
+c:\users\alberto\documents\visual studio 2015\Projects\QualcosaConAivEngine\obj\Debug\QualcosaConAivEngine.pdb
+c:\users\alberto\documents\visual studio 2015\Projects\QualcosaConAivEngine\bin\Debug\aiv-fast2d.dll
+c:\users\alberto\documents\visual studio 2015\Projects\QualcosaConAivEngine\bin\Debug\aivengine.dll
+c:\users\alberto\documents\visual studio 2015\Projects\QualcosaConAivEngine\bin\Debug\aiv-vorbis.dll
+C:\Users\Alberto\Documents\Visual Studio 2015\Projects\QualcosaConAivEngine\bin\Debug\NVorbis.dll
+C:\Users\Alberto\Documents\Visual Studio 2015\Projects\QualcosaConAivEngine\bin\Debug\OpenTK.dll
+C:\Users\Alberto\Documents\Visual Studio 2015\Projects\QualcosaConAivEngine\bin\Debug\NVorbis.xml
+C:\Users\Alberto\Documents\Visual Studio 2015\Projects\QualcosaConAivEngine\bin\Debug\OpenTK.xml
+C:\Users\Alberto\Documents\Visual Studio 2015\Projects\QualcosaConAivEngine\bin\Debug\aiv-fast2d.pdb
+C:\Users\Alberto\Documents\Visual Studio 2015\Projects\QualcosaConAivEngine\bin\Debug\aivengine.pdb
